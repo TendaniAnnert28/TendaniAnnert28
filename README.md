@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TendaniAnnert28
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently a back-end developer
 - 💞️ I’m looking to collaborate on any project with software devepment or data science
-- 📫 How to reach me : tenndy.ann@gmail.com / 0836106103
+- 📫 How to reach me : tenndy.ann@gmail.com / 0836106103/ 0659707175
 - 😄 Pronouns: Her/She
 
 
